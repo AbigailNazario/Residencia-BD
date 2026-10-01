@@ -1,7 +1,7 @@
-<img width="571" height="765" alt="Captura de tela 2026-10-01 201954" src="https://github.com/user-attachments/assets/602879cb-a284-4097-ac8d-06334e26e2d2" /># Residencia-BD
+# Residencia-BD
 Modelos MR e MER do projeto da residência tecnológica
 
-# Modelagem do Banco de Dados
+## Modelagem do Banco de Dados
 
 Este diretório contém os artefatos referentes à modelagem do banco de dados do projeto da residência tecnológica do quarto período, responsável por armazenar as informações necessárias para realizar e apresentar as estimativas de impacto ambiental relacionadas ao uso de Inteligência Artificial.
 
